@@ -1,0 +1,30 @@
+[
+    {
+       "controlType":"USER_STATUS"
+    },
+    {
+       "controlType":"IMAGE_CAROUSEL",
+       "content":[
+       {
+        "url": "ftnvegashr://categories/607edc0113b3536a760dc822",
+        "pictureId": "6088005e21832928b7cc915f",
+        "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegashr://categories/60744ba913b3536a760dc285",
+        "pictureId": "6088009821832928b7cc9168",
+        "showOnlyToUnregistratedUsers": true
+      }
+       ]
+    },
+    {
+       "controlType":"GAME_CATEGORY",
+       "name":"Playtech",
+       "categoryId":"60056e8b99630f3c46a173eb",
+       "hasMore":false,
+       "content": []
+    },
+  {
+    "controlType": "FOOTER"
+  }
+ ]
