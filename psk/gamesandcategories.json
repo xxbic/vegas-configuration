@@ -331,21 +331,6 @@
       "new": false
     },
     {
-      "id": "6011551499630f3c46a17646",
-      "gameCode": "gpas_squeen_pop",
-      "urlType": "vegas_native_GPAS_REAL",
-      "verticalThumbnailId": "60115d1d99630f3c46a176a6",
-      "gameInfoThumbnailId": "60115d2699630f3c46a176b8",
-      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&cat=GPAS&deliveryPlatform=Native&backUrl=https://casino.psk.hr/vegas/lobby/",
-      "name": "Fire Blaze: Sky Queen",
-      "nativeGame": true,
-      "gameType":"slots",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "6011390c99630f3c46a1740d",
       "gameCode": "hlf",
       "urlType": "vegas_native_PLAYTECH_REAL",
@@ -513,7 +498,6 @@
          "606dc12b7e13bb3e95f21d8f",
          "606dc19e7e13bb3e95f21dab",
          "6011537899630f3c46a17641",
-         "6011551499630f3c46a17646",
          "6011390c99630f3c46a1740d",
          "601134e399630f3c46a17405",
          "601139fc99630f3c46a17411",
