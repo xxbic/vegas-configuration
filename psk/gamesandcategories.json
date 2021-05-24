@@ -346,21 +346,6 @@
       "new": false
     },
     {
-      "id": "601134e399630f3c46a17405",
-      "gameCode": "jpgt",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "60114cdc99630f3c46a1751a",
-      "gameInfoThumbnailId": "60114ce699630f3c46a1752c",
-      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
-      "name": "Jackpot Giant",
-      "nativeGame": true,
-      "gameType": "jackpot",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "601139fc99630f3c46a17411",
       "gameCode": "legwld",
       "urlType": "vegas_native_PLAYTECH_REAL",
@@ -499,7 +484,6 @@
          "606dc19e7e13bb3e95f21dab",
          "6011537899630f3c46a17641",
          "6011390c99630f3c46a1740d",
-         "601134e399630f3c46a17405",
          "601139fc99630f3c46a17411",
          "6011392299630f3c46a1740e",
          "60802b7213b3536a760dc835",
