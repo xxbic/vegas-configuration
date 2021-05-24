@@ -6,32 +6,56 @@
        "controlType":"IMAGE_CAROUSEL",
        "content":[
           {
-             "url":"ftnvegasro://browser?url=https://casino.casapariurilor.ro/live",
-             "pictureId":"607ecb3a14b8c602a1fe3e3a",
-             "showOnlyToUnregistratedUsers": false
-              
-          },
-          {
-             "url":"ftnvegasro://lotto?url=https://www.casapariurilor.ro/loto?back_url=https%3A%2F%2Fcasino.casapariurilor.ro%2Flive#/",
-             "pictureId":"607ecb1114b8c602a1fe3e31",
-             "showOnlyToUnregistratedUsers": false
-          },
-          {
-             "url":"ftnvegasro://browser?url=https://account.casapariurilor.ro/register",
-             "pictureId":"607ecaff14b8c602a1fe3e28",
-             "showOnlyToUnregistratedUsers": true
-          },
-          {
-             "url":"ftnvegasro://browser?url=https://casino.casapariurilor.ro/live",
-             "pictureId":"607ecac014b8c602a1fe3e1f",
-             "showOnlyToUnregistratedUsers": false
-          }
+        "url": "ftnvegasro://browser?url=https%3A%2F%2Fcasino.efortuna.ro%2Fpromotions%2F63566&transferSession=true",
+        "pictureId": "608e658a9753e529614ee990",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://categories/602b9108bc5f8a42c1224b76",
+        "pictureId": "606b08f2dc7fb13c8d7f1de5",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://categories/5f577c7453410c11ca42cd40",
+        "pictureId": "60641c8fdc7fb13c8d7f11eb",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://webview?url=https%3A%2F%2Fm.efortuna.ro%2Fnative%2Fnews%2Fcasino-pachet-de-bun-venit",
+        "pictureId": "5f96853ad136442a74a68781",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://games/5f4f624953410c11ca42c0c8",
+        "pictureId": "5f968374d136442a74a6874b",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://games/5f56245c53410c11ca42c4cf",
+        "pictureId": "5f9683ddd136442a74a68756",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://browser?url=https%3A%2F%2Fm.efortuna.ro%2Floto%23%2F&transferSession=true",
+        "pictureId": "5f96cf77d136442a74a6886b",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://games/5f438e56aef0d83dfce1b9c4",
+        "pictureId": "5f96841ed136442a74a68761",
+         "showOnlyToUnregistratedUsers": false
+      },
+      {
+        "url": "ftnvegasro://games/5f4f54c053410c11ca42c091",
+        "pictureId": "5f968466d136442a74a6876b"
+         "showOnlyToUnregistratedUsers": true
+      }
        ]
     },
     {
        "controlType":"GAME_CATEGORY",
        "name":"Playtech",
-       "categoryId":"5fbcd6b3edc417249c90dfb9",
+       "categoryId":"5f438ddfaef0d83dfce1b9c3",
        "hasMore":false,
        "content": []
     },
