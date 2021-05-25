@@ -6,25 +6,10 @@
        "controlType":"IMAGE_CAROUSEL",
        "content":[
           {
-             "url":"ftnvegascp://browser?url=https://casino.casapariurilor.ro/live",
-             "pictureId":"607ecb3a14b8c602a1fe3e3a",
+              "url": "ftnvegassk://categories/606efb76338c0c286bc8e627",
+              "pictureId": "604737e40d6ed10709fdef9e"
              "showOnlyToUnregistratedUsers": false
               
-          },
-          {
-             "url":"ftnvegascp://lotto?url=https://www.casapariurilor.ro/loto?back_url=https%3A%2F%2Fcasino.casapariurilor.ro%2Flive#/",
-             "pictureId":"607ecb1114b8c602a1fe3e31",
-             "showOnlyToUnregistratedUsers": false
-          },
-          {
-             "url":"ftnvegascp://browser?url=https://account.casapariurilor.ro/register",
-             "pictureId":"607ecaff14b8c602a1fe3e28",
-             "showOnlyToUnregistratedUsers": true
-          },
-          {
-             "url":"ftnvegascp://browser?url=https://casino.casapariurilor.ro/live",
-             "pictureId":"607ecac014b8c602a1fe3e1f",
-             "showOnlyToUnregistratedUsers": false
           }
        ]
     },
