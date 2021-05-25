@@ -135,21 +135,6 @@
       "popular": false,
       "new": false
     },
-       {
-      "id": "6011416099630f3c46a17412",
-      "gameCode": "glrj",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "60114d6599630f3c46a1756b",
-      "gameInfoThumbnailId": "60114d6d99630f3c46a1757d",
-      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
-      "name": "Gladiator Jackpot",
-      "nativeGame": true,
-      "gameType": "jackpot",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
       {
       "id": "606dbfab7e13bb3e95f21d3a",
       "gameCode": "gpas_afactory_pop",
@@ -467,7 +452,6 @@
          "601136b399630f3c46a1740a",
          "6011471a99630f3c46a17416",
          "601134fa99630f3c46a17406",
-         "6011416099630f3c46a17412",
          "606dbfab7e13bb3e95f21d3a",
          "6011572d99630f3c46a1764c",
          "6011570e99630f3c46a1764b",
