@@ -271,21 +271,6 @@
       "new": false
     },
     {
-      "id": "606dc27d7e13bb3e95f21dc7",
-      "gameCode": "gpas_hydra_pop",
-      "urlType": "vegas_native_GPAS_REAL",
-      "verticalThumbnailId": "606dc2707e13bb3e95f21db4",
-      "gameInfoThumbnailId": "606dc2797e13bb3e95f21dc6",
-      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&cat=GPAS&deliveryPlatform=Native&backUrl=https://casino.psk.hr/vegas/lobby/",
-      "name": "Legend of Hydra",
-      "nativeGame": true,
-      "gameType":"slots",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "6011537899630f3c46a17641",
       "gameCode": "gpas_scqueen_pop",
       "urlType": "vegas_native_GPAS_REAL",
