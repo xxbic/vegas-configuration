@@ -60,21 +60,6 @@
       "popular": false,
       "new": false
     },
-      {
-      "id": "60800d6913b3536a760dc82c",
-      "gameCode": "bjto",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "6081829313b3536a760dc8f9",
-      "gameInfoThumbnailId": "608182b613b3536a760dc90b",
-      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
-      "name": "Premium Blackjack",
-      "nativeGame": true,
-      "gameType": "table",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
      {
       "id": "6011369a99630f3c46a17409",
       "gameCode": "cheaa",
@@ -402,7 +387,6 @@
          "6011345499630f3c46a17403",
          "6011352d99630f3c46a17408",
          "6011380099630f3c46a1740b",
-         "60800d6913b3536a760dc82c",
          "6011369a99630f3c46a17409",
          "601136b399630f3c46a1740a",
          "6011471a99630f3c46a17416",
