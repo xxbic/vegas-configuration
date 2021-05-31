@@ -910,21 +910,6 @@
       "new": false
     },
     {
-      "id": "5f5f748653410c11ca42d81c",
-      "gameCode": "toptf",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "5f870007d136442a74a66bdd",
-      "gameInfoThumbnailId": "5f870012d136442a74a66bef",
-      "name": "Top Trumps Football Stars Sporting Legends",
-      "description": "Ești un împătimit al fotbalului? Ce zici de un joc în care ai simboluri cu cei mai iubiți fotbalisti ai tuturor timpurilor? Neymar, Zlatan, Messi și mulți alții sunt gata să te distreze și să îți daucă premii incredibile!",
-      "nativeGame": true,
-      "gameType":"slots",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "5f438904aef0d83dfce1b9a8",
       "gameCode": "aogmm",
       "urlType": "vegas_native_PLAYTECH_REAL",
@@ -2445,7 +2430,6 @@
         "5f5f151a53410c11ca42d7bd",
         "5f4389abaef0d83dfce1b9ad",
         "5f5f15a053410c11ca42d7be",
-        "5f5f748653410c11ca42d81c",
         "5f5f17bd53410c11ca42d7c0",
         "5f4389ddaef0d83dfce1b9ae",
         "5f5f189453410c11ca42d7c2",
