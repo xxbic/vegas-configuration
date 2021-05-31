@@ -1896,21 +1896,6 @@
       "new": false
     },
     {
-      "id": "5f4382c7aef0d83dfce1b985",
-      "gameCode": "fdtsl",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "5f86e349d136442a74a6661d",
-      "gameInfoThumbnailId": "5f86e358d136442a74a6662f",
-      "name": "Frankie Dettori Sporting Legends",
-      "description": "Galopează spre premii, pe hipodromul câștigurilor, alături de legendarul Frankie Dettori. Bucură-te de runde gratuite și premii în viteză!",
-      "nativeGame": true,
-      "gameType":"jackpot",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "5f97d64dd136442a74a68a1f",
       "gameCode": "gpas_lemeralds_pop",
       "urlType": "vegas_native_GPAS_REAL",
@@ -2403,7 +2388,6 @@
         "5f438274aef0d83dfce1b982",
         "5f43828eaef0d83dfce1b983",
         "5f4382a2aef0d83dfce1b984",
-        "5f4382c7aef0d83dfce1b985",
         "5f4382e2aef0d83dfce1b986",
         "5f4382faaef0d83dfce1b987",
         "5f438319aef0d83dfce1b988",
