@@ -1273,21 +1273,6 @@
       "new": false
     },
     {
-      "id": "5f438054aef0d83dfce1b974",
-      "gameCode": "bjs",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "5f86dee1d136442a74a66452",
-      "gameInfoThumbnailId": "5f86deead136442a74a66464",
-      "name": "Blackjack Switch",
-      "description": "Blackjack Switch este o variantă foarte distractivă a blackjack-ului clasic jucat \"la două mâini\", diferența constă în faptul că acum ai câteva avantaje majore! Poți schimba cartea mai mare între cele două mâini, payout-ul dacă faci blackjack este 1:1 și dealerul trebuie să mai tragă o carte dacă ajunge la 17.",
-      "nativeGame": true,
-      "gameType":"table",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "5feaf649854f041ff0d7177c",
       "gameCode": "gpas_nyslot_pop",
       "urlType": "vegas_native_GPAS_REAL",
@@ -2344,7 +2329,6 @@
         "5f437fe4aef0d83dfce1b971",
         "5f43800faef0d83dfce1b972",
         "5f438039aef0d83dfce1b973",
-        "5f438054aef0d83dfce1b974",
         "5f4380f5aef0d83dfce1b975",
         "5f43810caef0d83dfce1b976",
         "5f43814daef0d83dfce1b978",
