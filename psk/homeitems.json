@@ -6,18 +6,18 @@
        "controlType":"IMAGE_CAROUSEL",
        "content":[
           {
-             "url":"ftnvegaspsk://webView?url=https://portal-admin-casino.psk.hr/casino/promotions",
+             "url":"ftnvegaspsk://webview?url=https://portal-admin-casino.psk.hr/casino/promotions",
              "pictureId":"60b4d4f42efd80033cc6a701",
              "showOnlyToUnregistratedUsers": false
               
           },
            {
-             "url":"ftnvegaspsk://webView?url=https://portal-admin-casino.psk.hr/casino/promotions",
+             "url":"ftnvegaspsk://webview?url=https://portal-admin-casino.psk.hr/casino/promotions",
              "pictureId":"60b4d5dc2efd80033cc6a70b",
              "showOnlyToUnregistratedUsers": false
           },
           {
-             "url":"ftnvegaspsk://webView?url=https://portal-admin-casino.psk.hr/casino/promotions",
+             "url":"ftnvegaspsk://webview?url=https://portal-admin-casino.psk.hr/casino/promotions",
              "pictureId":"60b4d6002efd80033cc6a716",
              "showOnlyToUnregistratedUsers": false
           }
