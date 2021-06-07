@@ -17,7 +17,7 @@
              "showOnlyToUnregistratedUsers": false
           },
           {
-             "url":"ftnvegaspsk://webview?url=https://portal-admin-casino.psk.hr/casino/promotions",
+             "url":"ftnvegaspsk://browser?url=https://portal-admin-casino.psk.hr/casino/promotions",
              "pictureId":"60b4d6002efd80033cc6a716",
              "showOnlyToUnregistratedUsers": false
           }
