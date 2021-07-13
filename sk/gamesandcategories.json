@@ -220,21 +220,6 @@
       "new": false
     },
     {
-      "id": "60c882737d2ab21034701229",
-      "gameCode": "scrdstns",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "60c882647d2ab21034701216",
-      "gameInfoThumbnailId": "60c8826e7d2ab21034701228",
-      "demoUrl": "https://games.ifortuna.sk/casinomobile/casinoclient.html?game=[gamecode]&real=1&lang=SK&deliveryPlatform=Native Proprietary&backurl=https://casino.ifortuna.sk/vegas/lobby",
-      "name": "Sacred Stones",
-      "nativeGame": true,
-      "gameType": "jackpot",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
-    },
-    {
       "id": "60c884a47d2ab21034701299",
       "gameCode": "upgdm",
       "urlType": "vegas_native_PLAYTECH_REAL",
@@ -383,21 +368,6 @@
       "hot": false,
       "popular": false,
       "new": true
-    },
-     {
-      "id": "60c86fa77d2ab210347010bf",
-      "gameCode": "fdtsl",
-      "urlType": "vegas_native_PLAYTECH_REAL",
-      "verticalThumbnailId": "60c86f997d2ab210347010ac",
-      "gameInfoThumbnailId": "60c86fa27d2ab210347010be",
-      "demoUrl": "https://games.ifortuna.sk/casinomobile/casinoclient.html?game=[gamecode]&real=1&lang=SK&deliveryPlatform=Native Proprietary&backurl=https://casino.ifortuna.sk/vegas/lobby",
-      "name": "Frankie Dettori: Sporting Legends",
-      "nativeGame": true,
-      "gameType": "jackpot",
-      "jackpotCarousel": false,
-      "hot": false,
-      "popular": false,
-      "new": false
     },
     {
       "id": "60c86aa27d2ab2103470100b",
@@ -675,7 +645,6 @@
        "60c875067d2ab2103470112f",
        "60c880e67d2ab210347011b8",
        "60c882057d2ab2103470120d",
-       "60c882737d2ab21034701229",
        "60c884a47d2ab21034701299",
        "60c85c867d2ab21034700c7c",
        "60c882e57d2ab21034701261",
@@ -686,7 +655,6 @@
        "60c882aa7d2ab21034701245",
        "60ace997a498bb7e4795cca9",
        "60c85c437d2ab21034700c60",
-       "60c86fa77d2ab210347010bf",
        "60c86aa27d2ab2103470100b",
        "60c85f6d7d2ab21034700dd8",
        "60c8680c7d2ab21034700fd3",
